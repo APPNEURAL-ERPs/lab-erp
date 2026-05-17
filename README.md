@@ -17,7 +17,7 @@ This repository is the APPNEURAL starter space for a lab product. It is intended
 
 - Initial README created for the APPNEURAL ERP catalog.
 - Product scope is ready for module planning and implementation.
-- Naming intentionally avoids the `micro` keyword.
+- Repository naming follows the clean APPNEURAL ERP catalog convention.
 
 ## Suggested Next Steps
 
